@@ -38,13 +38,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `the-best-of-netflix`,
+        short_name: `best-netflix`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#000`,
+        theme_color: `#000`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`,
+        icon: `src/images/netflix-icon.png`,
       },
     },
     `gatsby-plugin-offline`,
