@@ -1,10 +1,18 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { CustomLink } from '../StyledComponents/StyledComponents';
-
 const FooterContainer = styled.footer`
   text-align: center;
+`;
+
+const CustomLink = styled.a`
+  text-decoration: none;
+  color:  #E50914;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
 `;
 
 const Footer = () => (
