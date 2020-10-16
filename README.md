@@ -1,9 +1,15 @@
 <p align="center">A mini blog about</p>
 <h1 align="center">The best of Netflix</h1>
 
-- A small blog example using the [Gatsby](https://www.gatsbyjs.org/) framework, generating blog pages from markdown.
-- Use styled components for layout.
+## Preview
+https://jovial-feynman-ad68c6.netlify.app/
 
-Clone and run npm run develop to start.
+## Usage 
+A [Gatsby](https://www.gatsbyjs.org/) blog example. Generating blog posts from markdown page using data variables from each markdown.
+
+Styling is done using [styled components](https://styled-components.com/).
+
+## Local setup
+After cloning the project, run `npm run develop` to set up the virtual environment locally and launch the site.
 
 Have fun!
